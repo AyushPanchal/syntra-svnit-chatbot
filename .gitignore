@@ -1,5 +1,4 @@
 .env
-embeddings_db
 downloaded_pdfs
 __pycache__
 svnit
