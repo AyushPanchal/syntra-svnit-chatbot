@@ -1,0 +1,15 @@
+langchain 
+langchain-community
+bs4 
+html2text 
+requests
+tqdm
+chromadb 
+lxml
+huggingface-hub 
+sentence-transformers
+unstructured
+faiss-cpu
+pdfplumber
+pymupdf
+streamlit

@@ -1,0 +1,41 @@
+🔁 Hello I'm Syntra, Type 'exit' to stop.
+
+You: Hello, who are you?
+Syntra: I am syntra, a helpful chatbot assistant with expertise in extracting and answering questions related to SVNIT, Surat. How can I assist you today?
+
+You: can you get me email address of current head of the department of svnit surat
+Syntra: The email address of the current Head of the Department of Computer Engineering at SVNIT Surat is sjp[at]coed[dot]svnit[dot]ac[dot]in.
+
+You: what is the name of her ?
+Syntra: I'm sorry, but I couldn't find any specific name mentioned in the provided context. If you could provide more details or clarify your question, I would be happy to assist you further.
+
+You: what is the name of the person whose email you provided earlier
+Syntra: The name of the person whose email was provided earlier is Dr. Sankita J. Patel.
+
+You: okay, thank you.
+Syntra: I'm glad I could assist you. If you have any more questions or need further information, feel free to ask.
+
+
+-----------------------------------------------------------------------------
+
+
+🔁 Hello I'm Syntra, Type 'exit' to stop.
+
+You: hello, who are you ? 
+Syntra: Hello! I am syntra, a helpful chatbot assistant with expertise in extracting and answering questions related to SVNIT, Surat. How can I assist you today?
+
+You: can you get me the name and email address of head of the department right now ?
+Syntra: The Head of the Department of Computer Engineering at SVNIT, Surat is Dr. Sankita J. Patel. You can reach out to her via email at hod[at]coed[dot]svnit[dot]ac[dot]in.
+
+You: can you get me her personal mail id and her research interests
+Syntra: I'm sorry, but I cannot provide personal email addresses of individuals. However, I can provide you with the research interests of Dr. Sankita J. Patel, the Head of the Department of Computer Engineering at SVNIT, Surat. Her research interests include Information Security and Privacy, Online Social Networks, Cyber Physical Systems/Internet of Things, Blockchain Technology, Privacy Preserving Techniques, Software Requirements Analysis, Cloud/Edge Computing, and Applied Machine Learning.
+
+You: okay do you know anything about dr naveen kumar
+Syntra: Dr. Naveen Kumar is an Assistant Professor with a Ph.D. in the Department of Computer Science and Engineering at SVNIT, Surat. His research areas include Named Data Networking, Network Security, P2P computing, Machine Learning, and Meta-heuristics. You can contact him via email at naveenkumar[at]coed[dot]svnit[dot]ac[dot]in.
+
+You: can you get me the email address of dr chandra prakash 
+Syntra: The email address of Dr. Chandra Prakash is cprakash[at]coed[dot]svnit[dot]ac[dot]in.
+
+You: what are the research interests of him ? 
+Syntra: Dr. Chandra Prakash is an Associate Professor in the Computer Engineering Department at SVNIT, Surat. His research interests include Information Security & Privacy Issues in Resource Constrained Environments, Machine Learning Applications in Security, Software Security, Secure Software Engineering, and Software Requirements Specifications. You can contact him via email at dcj[at]svnit[dot]ac[dot]in. 
+
