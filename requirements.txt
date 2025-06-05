@@ -1,5 +1,6 @@
 langchain 
 langchain-community
+langchain-openai
 bs4 
 html2text 
 requests
